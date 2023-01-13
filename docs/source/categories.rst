@@ -1,11 +1,16 @@
 Categories
 ##########
 
+UV Smooth
+   Controls how subdivision smoothing is applied to UVs.
+
+   :None: UVs remain unchanged.
+
 Repair
 ******
 
 Loose
-   Dissolves Unconnected Geometry
+   Dissolves Unconnected Geometry.
 
    :Vertices: Vertices which are not part of an edge
    :Edges: Edges which are not part of an face
