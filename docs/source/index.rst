@@ -22,5 +22,8 @@ Contents
 .. toctree::
    :maxdepth: 2
 
+   installation
    clean
    categories
+   presets
+   contact
