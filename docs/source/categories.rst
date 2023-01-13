@@ -4,7 +4,7 @@ Categories
 UV Smooth
    Controls how subdivision smoothing is applied to UVs.
 
-   :None: UVs remain unchanged.
+ :None: UVs remain unchanged.
 
 Repair
 ******
