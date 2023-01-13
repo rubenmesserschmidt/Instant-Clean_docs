@@ -1,6 +1,11 @@
 Categories
 ##########
 
+Loose
+   Test.
+
+   :Test: Test
+
 Repair
 ******
 
