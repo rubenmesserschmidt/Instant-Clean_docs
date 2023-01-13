@@ -4,11 +4,13 @@ Instant Clean
 **Instant Clean** is a single click mesh clean addon for Blender.
 Save yourself some time by automating the mesh clean process.
 
+.. _test:
+
 Features
 --------
 
-* :clean:`Ultimate Clean`
-* Preset System
+* :doc:`clean`
+* :ref:`test`
 * Single Execution
 
 Support
