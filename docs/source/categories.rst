@@ -4,7 +4,8 @@ Categories
 Repair
 ******
 
-* **Loose**: Dissolves Unconnected Geometry
+* **Loose**:
+   Dissolves Unconnected Geometry
  :Vertices: Vertices which are not part of an edge
  :Edges: Edges which are not part of an face
  :Faces: Faces which are not connected to other faces
