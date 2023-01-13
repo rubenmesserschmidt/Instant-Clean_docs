@@ -1,22 +1,26 @@
-Welcome to Instant Clean's documentation!
-===================================
+Instant Clean
+=============
 
-**Instant Clean** is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+**Instant Clean** is a single click mesh clean addon for Blender.
+Save yourself some time by automating the mesh clean process.
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+Features
+--------
 
-.. note::
+* :clean:`Ultimate Clean`
+* Preset System
+* Single Execution
 
-   This project is under active development.
+Support
+-------
+
+If you have any questions join me on `Discord <https://discord.gg/TYFq6VKXCN>`_.
 
 Contents
 --------
 
 .. toctree::
 
+   clean
    usage
    api
