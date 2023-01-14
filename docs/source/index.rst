@@ -2,6 +2,7 @@ Instant Clean
 =============
 
 .. image:: images/Instant_Clean_Thumbnail-min.jpg
+   :width: 600
    :alt: Instant Clean Thumbnail
 
 **Instant Clean** is a single click mesh clean addon for Blender.
