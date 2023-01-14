@@ -26,4 +26,5 @@ Contents
    clean
    categories
    presets
+   update
    contact

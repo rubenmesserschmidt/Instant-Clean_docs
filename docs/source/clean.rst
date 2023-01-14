@@ -1,5 +1,5 @@
 Ultimate Clean
 ==============
 
-The all in one solution, where you know exactly what happened.
-By clicking Clean all operations will be executed with your current settings.
+Executes all operations in a single click based on your settings.
+
