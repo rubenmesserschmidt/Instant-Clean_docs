@@ -8,3 +8,4 @@ Blender Version
 | choose *Load x.x Settings* in the bottom left corner.
 | Then the Add-on including all of your presets will be available same as in your previous version.
 
+

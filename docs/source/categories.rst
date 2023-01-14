@@ -1,8 +1,8 @@
 Operation Categories
 ##########
 
-Every operation category can be enabled/disabled by checking/unchecking it's header.
-It's also possible to execute them seperated from each other by pressing the *Play* button right next to the header.
+| Every operation category can be enabled/disabled by checking/unchecking it's header.
+| It's also possible to execute them seperated from each other by pressing the *Play* button right next to the header.
 |
 
 Repair

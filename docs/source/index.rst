@@ -14,7 +14,7 @@ Features
 Support
 -------
 
-If you have any questions join me on `Discord <https://discord.gg/TYFq6VKXCN>`_.
+If you have any questions get in touch via :doc:`contact`.
 
 Contents
 --------
