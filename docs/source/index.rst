@@ -32,3 +32,7 @@ Contents
    presets
    update
    contact
+
+| **Credits**
+| 3D Model House: "XX century italian house" (https://skfb.ly/69S9R) by yarogor is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/). The mesh was edited to demonstrate all features of Instant Clean in one use.
+|
