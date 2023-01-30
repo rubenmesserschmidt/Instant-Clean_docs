@@ -27,10 +27,11 @@ Contents
    :maxdepth: 2
 
    installation
+   update
+   changelog
    clean
    categories
-   presets
-   update
+   presets 
    contact
 
 |
