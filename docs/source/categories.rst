@@ -58,7 +58,7 @@ Normals
  :Inside: Outside of each face is inside of the mesh.
 * **Auto Smooth**: Apply an angle restricted smooth shading.
  :Max Angle: Maximum angle for smooth shading.
-* **Weighted Normals**: Add *Weighted Normals* modifier to your objects
+* **Weighted Normals**: Add *Weighted Normals* modifier to your objects.
 |
 
 Objectdata
