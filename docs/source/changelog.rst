@@ -7,7 +7,6 @@ Changelog
 
 * **New Features**
  :Weighted Normals: Add *Weighted Normals* modifier to your objects.
-|
 
 * **Bug Fixes**
  :Topology Stats: Increased topology percentage now shows the correct sign.
