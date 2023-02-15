@@ -1,6 +1,16 @@
 Changelog
 #########
 
+1.2.0
+*****
+
+* **New Features**
+ :Clear Custom Split Normals: Clears custom split normals if any available.
+ :Clear Sharp Edges: Clears sharp edges i.a. resulting from custom split normals.
+
+* **Bug Fixes**
+ :N-Panel: The Instant Clean Panel is now movable by N-Panel manager addons.
+|
 
 1.1.0
 *****
