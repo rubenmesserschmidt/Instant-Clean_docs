@@ -1,6 +1,14 @@
 Changelog
 #########
 
+1.2.1
+*****
+
+* **Bug Fixes**
+ :Topology: Fixed an issue where topology to quads was not working when using dissolve at the same time.
+ :Repair: Renamed the option 'Interiors' to 'Non-Manifolds'.
+|
+
 1.2.0
 *****
 
