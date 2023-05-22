@@ -1,7 +1,7 @@
 Changelog
 #########
 
-
+|
 2.0.0
 *****
 
@@ -15,14 +15,17 @@ New Features
  :Fill Holes:
  :Flatten Faces:
  :Undistort Faces:
+|
 
 * **Convert to Quads Settings**: Added max face/shape angle threshold settings for better results.
 * **Remove Double Materials**: Merge material duplicates into a single one (by suffix e.g. material_name.001, material_name.002, ...).
  :Remove Data: Also destructively delete the duplicates from the file to save memory.
+|
 
 * **Material Slots Clear Method**: Added two options for the material slot clean.
  :Unused: Remove unused material slots only.
  :All: Remove all material slots, thus removing all materials from the object.
+|
 
 Bug Fixes
 ^^^^^^^^^
@@ -30,7 +33,7 @@ Bug Fixes
 * **Non-Manifold Faces**: Accelerated the execution speed to the 5X as before.
 * **Overall Performance**: Improved the performance of the whole addon by 10-20% depending on the settings you have enabled.
 
-
+|
 1.2.1
 *****
 
