@@ -29,6 +29,8 @@ Bug Fixes
 ^^^^^^^^^
 
 * **Non-Manifold Faces**: Accelerated the execution speed to the 5X as before.
+|
+
 * **Overall Performance**: Improved the performance of the whole addon by 10-20% depending on the settings you have enabled.
 
 |
