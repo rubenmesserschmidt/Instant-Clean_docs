@@ -15,7 +15,7 @@ Repair
 * **Doubles**: Vertices with the same position.
  :Max Distance: Maximum Distance between positions to be considered as same.
 * **Zero Faces**: Faces with an area of zero.
- :Max Area: Maximal area of an face to be considered as zero.
+ :Max Area: Maximum area of an face to be considered as zero.
 * **Dispensables**: Vertices which are connecting two edges by an angle of zero.
  :Max Distance: Maximum angle between two edges to be considered as zero.
 * **Interiors**: Faces which are inside the mesh.
@@ -39,7 +39,7 @@ Manifold
 Dissolve
 ********
 
-* **Max Angle**: Maximal angle at which geometry will be dissolved.
+* **Max Angle**: Maximum angle at which geometry will be dissolved.
 * **Boundaries**: Dissolve edges which are part of one face only.
 * **Protect**: Keep edges with certain dependencies or attributes.
  :Sharp: Keep edges marked as sharp.
