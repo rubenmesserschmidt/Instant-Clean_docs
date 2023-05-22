@@ -58,6 +58,7 @@ Topology
   :NGon Method: Method which will be used for the ngon to triangle computation.
  :Quads: Converts faces to quads if possible.
  * **Compare**: Keep edges with certain dependencies or attributes
+  :
   :Sharp: Keep edges marked as sharp.
   :Seam: Keep edges marked as seam.
   :VCol: Keep vertex colors.
