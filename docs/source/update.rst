@@ -5,6 +5,7 @@ Instant Clean
 *************
 
 1. Deinstall the old version of Instant Clean under *Edit/Preferences/Add-ons/Instant Clean/Remove*.
+#. Restart Blender.
 #. Follow the :doc:`installation` instructions and choose the new addon .zip file.
 #. Enjoy the new version of Instant Clean.
  
