@@ -28,6 +28,9 @@ New Features
  :All: Remove all material slots, thus removing all materials from the object.
 |
 
+* **Merge Panels**: Added the option to merge all panels of my addons into a single panel called *Ruben's Addons*. You'll find the option under the addon preferences (*Edit>Preferences>Add-Ons>Instant Clean*).
+|
+
 Bug Fixes
 ^^^^^^^^^
 
