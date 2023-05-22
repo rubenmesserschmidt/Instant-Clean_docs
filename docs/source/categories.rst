@@ -58,7 +58,8 @@ Topology
   :NGon Method: Method which will be used for the ngon to triangle computation.
  :Quads: Converts faces to quads if possible.
  * **Compare**: Keep edges with certain dependencies or attributes
-  :
+  :Max Face Angle: Dissolve only edges with lower angles between their adjacent faces to create quads (higher values creating more quads).
+  :Max Shape Angle: Only try to convert to a quad if the overall shape change is lower than this angle (higher values creating more quads).
   :Sharp: Keep edges marked as sharp.
   :Seam: Keep edges marked as seam.
   :VCol: Keep vertex colors.
