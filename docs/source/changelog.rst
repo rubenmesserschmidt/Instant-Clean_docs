@@ -18,6 +18,7 @@ New Features
 |
 
 * **Convert to Quads Settings**: Added max face/shape angle threshold settings for better results.
+|
 * **Remove Double Materials**: Merge material duplicates into a single one (by suffix e.g. material_name.001, material_name.002, ...).
  :Remove Data: Also destructively delete the duplicates from the file to save memory.
 |
