@@ -8,7 +8,7 @@ Changelog
 New Features
 ^^^^^^^^^^^^
 
-* **Manifold Category**: All new category containing 6 new features to make your mesh manifold, find all details :ref:`here <Manifold>`.
+* **Manifold Category**: All new category containing 6 new features to make your mesh manifold, find all details :ref:`here <Manifold>_`.
 |
 
 * **Convert to Quads Settings**: Added max face/shape angle threshold settings for better results.

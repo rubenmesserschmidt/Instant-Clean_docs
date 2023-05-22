@@ -79,7 +79,11 @@ Normals
 Objectdata
 **********
 
-* **Material Slots**: Removes all material slots whose materials are not assigned to any part of the mesh.
+* **Remove Double Materials**: Merge material duplicates into a single one (by suffix e.g. material_name.001, material_name.002, ...).
+ :Remove Data: Also destructively delete the duplicates from the file to save memory.
+* **Material Slots**: Removes material slots based on a clear method.
+ :Unused: Remove unused material slots only.
+ :All: Remove all material slots, thus removing all materials from the object.
 * **Vertex Groups**: Removes all vertex groups which have no vertices assigned to it.
 |
 
