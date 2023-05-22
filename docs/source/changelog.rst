@@ -8,13 +8,7 @@ Changelog
 New Features
 ^^^^^^^^^^^^
 
-* **Manifold Category**: All new category containing various features to make your mesh manifold
- :Remove Non-Manifold Faces:
- :Remove Non-Manifold Verts:
- :Wire Geometry:
- :Fill Holes:
- :Flatten Faces:
- :Undistort Faces:
+* **Manifold Category**: All new category containing 6 new features to make your mesh manifold, find all details :ref:`here <Manifold>`.
 |
 
 * **Convert to Quads Settings**: Added max face/shape angle threshold settings for better results.

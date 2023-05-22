@@ -21,6 +21,21 @@ Repair
 * **Interiors**: Faces which are inside the mesh.
 |
 
+Manifold
+********
+
+* **Remove Non-Manifold Faces**: Dissolve faces which have edges connected to more than two faces such as interior faces.
+* **Remove Non-Manifold Verts**: Split vertices which are connecting parts of the mesh in a zero volume point.
+* **Wire Geometry**: Dissolve edges which are not connected to any faces.
+* **Fill Holes**: Fill up holes in the mesh.
+ :Max Sides: Only holes with a lower amount of sides will be filled.
+* **Flatten Faces**: Flatten faces which vertices are not in the same plane by moving them to match an average plane.
+ :Factor: Determines how strong vertices will be moved to make all faces as flat as possible (higher is stronger).
+ :Iterations: Repeat the flatten process this number of times (more often makes the faces flatter).
+* **Undistort Faces**: Triangulate non-planar faces to create as many planar faces as possible.
+ :Max Angle: Triangulate only faces whose normal and any loops normal of the face having a higher angle than this between them (higher values triangulating fewer faces).
+|
+
 Dissolve
 ********
 
