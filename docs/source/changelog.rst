@@ -22,6 +22,9 @@ New Features
  :All: Remove all material slots, thus removing all materials from the object.
 |
 
+* **Limit by Selection**: It's now possible to execute the clean only for your selection by holding shift when pressing any execute button.
+|
+
 * **Merge Panels**: Added the option to merge all panels of my addons into a single panel called *Ruben's Addons*. You'll find the option under the addon preferences (*Edit>Preferences>Add-Ons>Instant Clean*).
 |
 
