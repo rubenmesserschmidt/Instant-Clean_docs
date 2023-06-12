@@ -2,6 +2,33 @@ Changelog
 #########
 
 |
+2.0.3
+*****
+
+Bug Fixes
+^^^^^^^^^
+
+* **Non-Manifold Verts**: More minor bug fixes.
+
+|
+2.0.2
+*****
+
+Bug Fixes
+^^^^^^^^^
+
+* **Non-Manifold Verts**: Fixed a bug when solving non-manifold verts connecting more than two parts of a mesh.
+
+|
+2.0.1
+*****
+
+Bug Fixes
+^^^^^^^^^
+
+* **Manifold Panel**: Minor bug fixes.
+
+|
 2.0.0
 *****
 
