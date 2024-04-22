@@ -3,6 +3,20 @@ Changelog
 =========
 
 #####
+2.1.1
+#####
+
+*April 22th, 2024*
+
+*********
+Bug Fixes
+*********
+
+**Update Check**
+    Fixed an issue where the update system checked for internet connection even when disabled.
+
+    
+#####
 2.1.0
 #####
 
