@@ -6,6 +6,20 @@ Changelog
 2.1.1
 #####
 
+*April 26th, 2024*
+
+*********
+Bug Fixes
+*********
+
+**Backwards Compatibility**
+    Fixed an issue where the addon would throw an error on Blender 3.0 and below.
+
+
+#####
+2.1.1
+#####
+
 *April 22th, 2024*
 
 *********
