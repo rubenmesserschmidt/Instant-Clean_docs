@@ -6,8 +6,8 @@ project = "Instant Clean"
 copyright = "2024, Ruben Messerschmidt"
 author = "Ruben Messerschmidt"
 
-release = "2.1.0"
-version = "2.1.0"
+release = "2.2.0"
+version = "2.2.0"
 
 # -- General configuration
 

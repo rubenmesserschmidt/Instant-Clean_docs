@@ -3,6 +3,20 @@ Changelog
 =========
 
 #####
+2.2.0
+#####
+
+*September 9th, 2024*
+
+************
+New Features
+************
+
+**Extension Ready**
+    Instant Clean is now compatible with the Extension system.
+
+
+#####
 2.1.2
 #####
 
