@@ -3,6 +3,19 @@ Changelog
 =========
 
 #####
+2.2.1
+#####
+
+*April 29th, 2025*
+
+*********
+Bug Fixes
+*********
+
+**Update Check**
+    Auto update check is now disabled by default. Internet access and required modules will be checked only when enabling auto update check or checking for updates manually.
+
+#####
 2.2.0
 #####
 
